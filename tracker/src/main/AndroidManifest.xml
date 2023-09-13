@@ -16,7 +16,7 @@
   -->
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.android.apps.santatracker.tracker">
+    package="com.user0tb.apps.santatracker.tracker">
 
     <application>
 
