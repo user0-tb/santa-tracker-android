@@ -23,7 +23,7 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Build with Gradle
-      run: ./gradlew assemble
+      run: ./gradlew assemble -x :playgames:transformNativeLibsWithSyncJniLibsForRelease
     - name: Prepare Listing
       run: sudo apt install tree
     - name: Listing
