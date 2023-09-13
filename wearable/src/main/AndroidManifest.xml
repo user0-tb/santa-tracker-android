@@ -16,7 +16,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.android.apps.santatracker" >
+    package="com.user0tb.apps.santatracker" >
 
     <uses-feature android:name="android.hardware.type.watch" />
 
