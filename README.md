@@ -1,7 +1,4 @@
-Status: Archived
-================
 
-This repository has been archived and is no longer maintained.
 
 
 ## Google Santa Tracker for Android 🎅🤶
