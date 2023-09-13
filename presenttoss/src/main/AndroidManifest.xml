@@ -53,7 +53,7 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
 
             <intent-filter>
-                <action android:name="com.google.android.apps.santatracker.ACTION_DOODLE_TOSS" />
+                <action android:name="com.user0tb.android.apps.santatracker.ACTION_DOODLE_TOSS" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
